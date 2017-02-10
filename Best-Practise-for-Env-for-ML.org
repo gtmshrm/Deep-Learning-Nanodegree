@@ -1,5 +1,5 @@
 
-* Anaconda (always use anaconds for data science)
+* Anaconda
 ** Installation and Usage
 *** Installing
    + conda install <package_name> or pip install <package_name>
@@ -8,7 +8,7 @@
    + conda list
 
 *** Conda Environments
-   + conda create -n <env_name> python=3.5 
+   + conda create -n <env_name> python=3.5
 
 *** Saving and Loading Environments
 **** Saving Environments
@@ -23,7 +23,7 @@
    + conda env remove -n <env_name>
 
 
-   
+
 * Best practices
 ** Using environments
  + One thing that’s helped me tremendously is having separate environments for Python 2 and Python 3. I used conda create -n py2 python=2 and conda create -n py3 python=3 to create two separate environments, py2 and py3. Now I have a general use environment for each Python version. In each of those environments, I've installed most of the standard data science packages (numpy, scipy, pandas, etc.)
