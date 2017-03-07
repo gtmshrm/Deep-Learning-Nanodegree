@@ -252,3 +252,5 @@ print(delta_w_i_o)
 *** Underfitting (high bias) and Overfitting (high variance)
     
 ** K-Fold Cross Validation
+
+* MiniFlow
