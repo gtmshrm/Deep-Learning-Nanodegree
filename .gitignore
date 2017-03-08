@@ -1,0 +1,9 @@
+__pycache__          cifar-10-python.tar.gz           image_classification.data-00000-of-00001  preprocess_batch_1.p  preprocess_batch_4.p   preprocess_validation.p
+checkpoint           dlnd_image_classification.ipynb  image_classification.index                preprocess_batch_2.p  preprocess_batch_5.p   problem_unittests.py
+cifar-10-batches-py  helper.py                        image_classification.meta                 preprocess_batch_3.p  preprocess_training.p
+
+Project-2/__pycache__
+Project-2/cifar*
+Project-2/preprocess*
+Project-2/image_classification*
+Project-2/checkpoint
