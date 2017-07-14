@@ -1,0 +1,15 @@
+* Andrej Karpathy: [[https://www.youtube.com/watch=?v=iX5V1WpxxkY][CS231n Lecture 10 - Recurrent Neural Networks, Image Captioning, LSTM]]
+** Types
+*** one to one (vanilla NN)
+*** one to many (eg: image captioning)
+*** many to one (eg: sentiment classification)
+*** many to many (2 types)
+**** many = many (eg: machine translation (seq-to-seq))
+**** many != many (eg: video classification on frame level)
+** Equations
+   [[file:imgs/1.png]]
+   [[file:imgs/2.png]]
+
+** [[https://gist.github.com/karpathy/d4dee56687f8291f086][Character Level RNN Code in Numpy]]
+
+* Intro to RNNs
